@@ -1,0 +1,14 @@
+.revd{
+    flex: 0.8;
+    background-color: #fafafa;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+.revd > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.revd__videos{
+    display: flex;
+    flex-wrap: wrap;
+}

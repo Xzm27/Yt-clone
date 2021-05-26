@@ -1,0 +1,28 @@
+.videorow{
+    display: flex;
+    margin-bottom: 24px;
+}
+.videorow > img{
+    width: 300px;
+    height: 160px
+}
+.videorow__title{
+    padding: 0 10px;
+}
+.videorow__title>p{
+    color: gray;
+}
+.videorow__avatar{
+    display: flex;
+    padding: 15px 0;
+    align-items: center;
+    color: gray;
+}
+
+.videorow__avatar2{
+    height: 24px !important;
+    width: 24px !important;
+}
+.videorow__avatar > p{
+    margin-left: 5px;
+}
